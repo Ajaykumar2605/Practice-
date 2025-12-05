@@ -1,9 +1,5 @@
 # 🔥 Git Cheat Sheet — Most Used Git Commands
 
-This document contains the most important and frequently used Git commands for daily development.
-
----
-
 ## 🧱 1️⃣ Git Configuration
 ```bash
 git config --global user.name "Your Name"
