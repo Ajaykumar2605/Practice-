@@ -79,3 +79,4 @@ git status → check current state
 git push / git pull → sync with remote
 git branch / checkout → work with branches
 ```
+
