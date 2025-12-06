@@ -42,4 +42,3 @@ git push
 
 ##Quote
 > This is a quote message
-
